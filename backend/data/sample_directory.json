@@ -1,0 +1,8212 @@
+{
+ "_note": "SAMPLE data for development. Experts and centres are fictional; product doses/prices are indicative only.",
+ "experts": [
+  {
+   "id": "E001",
+   "name": "Dinesh Pawar (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "soybean",
+    "tomato"
+   ],
+   "expertise": [
+    "wilt",
+    "powdery mildew",
+    "early blight"
+   ],
+   "organisation": "Sample State Agricultural University, Lucknow",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "rating": 3.9,
+   "review_count": 222,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E002",
+   "name": "Pooja Pawar (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "sugarcane",
+    "potato",
+    "cotton"
+   ],
+   "expertise": [
+    "root rot",
+    "downy mildew",
+    "wilt"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 3,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.3,
+   "review_count": 195,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E003",
+   "name": "Anil Tiwari (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "mustard",
+    "maize",
+    "soybean",
+    "groundnut",
+    "cotton"
+   ],
+   "expertise": [
+    "late blight",
+    "root rot",
+    "downy mildew",
+    "wilt"
+   ],
+   "organisation": "Sample Agri Startup, Mysuru",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 15,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 3.9,
+   "review_count": 219,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E004",
+   "name": "Neha Kale (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "cotton",
+    "grapes",
+    "rice",
+    "maize",
+    "onion"
+   ],
+   "expertise": [
+    "early blight",
+    "mosaic virus",
+    "downy mildew"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Belagavi",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 21,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.2,
+   "review_count": 241,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E005",
+   "name": "Prakash Choudhary (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "tomato",
+    "onion"
+   ],
+   "expertise": [
+    "wilt",
+    "downy mildew",
+    "leaf spot",
+    "blast",
+    "anthracnose",
+    "mosaic virus"
+   ],
+   "organisation": "Sample State Agricultural University, Belagavi",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.7,
+   "review_count": 82,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E006",
+   "name": "Meena Rathore (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "chickpea",
+    "cotton",
+    "mustard",
+    "chilli"
+   ],
+   "expertise": [
+    "bacterial blight",
+    "leaf curl virus",
+    "wilt"
+   ],
+   "organisation": "Sample KVK, Agra",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.2,
+   "review_count": 210,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E007",
+   "name": "Ramesh Kale (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "soybean",
+    "tomato",
+    "sugarcane"
+   ],
+   "expertise": [
+    "late blight",
+    "powdery mildew",
+    "root rot"
+   ],
+   "organisation": "Sample KVK, Kota",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 5,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.3,
+   "review_count": 247,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E008",
+   "name": "Vijay Choudhary (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "wheat",
+    "soybean",
+    "chilli"
+   ],
+   "expertise": [
+    "leaf spot",
+    "mosaic virus",
+    "wilt",
+    "early blight",
+    "leaf curl virus"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Mysuru",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 25,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.2,
+   "review_count": 119,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E009",
+   "name": "Kiran Patil (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "chilli",
+    "onion"
+   ],
+   "expertise": [
+    "powdery mildew",
+    "mosaic virus",
+    "root rot",
+    "rust",
+    "bacterial blight"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 13,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 3.9,
+   "review_count": 57,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E010",
+   "name": "Mohan Chauhan (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "tomato",
+    "potato",
+    "groundnut",
+    "chickpea",
+    "brinjal"
+   ],
+   "expertise": [
+    "anthracnose",
+    "mosaic virus",
+    "blast"
+   ],
+   "organisation": "Sample KVK, Mysuru",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.7,
+   "review_count": 19,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E011",
+   "name": "Harjit Verma (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "wheat",
+    "groundnut"
+   ],
+   "expertise": [
+    "wilt",
+    "mosaic virus",
+    "leaf spot"
+   ],
+   "organisation": "Sample State Agricultural University, Agra",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 19,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "rating": 3.9,
+   "review_count": 113,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E012",
+   "name": "Sanjay Kale (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "maize",
+    "chilli",
+    "cotton",
+    "banana",
+    "groundnut"
+   ],
+   "expertise": [
+    "bacterial blight",
+    "leaf spot",
+    "root rot"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Dharwad",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 30,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.6,
+   "review_count": 289,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E013",
+   "name": "Sanjay Rathore (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "cotton",
+    "onion"
+   ],
+   "expertise": [
+    "root rot",
+    "wilt",
+    "anthracnose",
+    "mosaic virus",
+    "powdery mildew"
+   ],
+   "organisation": "Sample KVK, Nagpur",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 18,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "rating": 4.5,
+   "review_count": 137,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E014",
+   "name": "Mahesh Deshmukh (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "cotton",
+    "soybean",
+    "chickpea",
+    "maize",
+    "rice"
+   ],
+   "expertise": [
+    "mosaic virus",
+    "leaf curl virus",
+    "anthracnose",
+    "rust"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 12,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 4.0,
+   "review_count": 53,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E015",
+   "name": "Anil Sharma (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "wheat",
+    "tomato",
+    "chilli",
+    "onion"
+   ],
+   "expertise": [
+    "mosaic virus",
+    "early blight",
+    "blast",
+    "rust",
+    "wilt",
+    "downy mildew"
+   ],
+   "organisation": "Sample State Agricultural University, Bathinda",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 13,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.7,
+   "review_count": 58,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E016",
+   "name": "Harjit Meena (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "chickpea",
+    "rice",
+    "maize",
+    "wheat",
+    "mustard"
+   ],
+   "expertise": [
+    "blast",
+    "late blight",
+    "downy mildew",
+    "early blight"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.3,
+   "review_count": 118,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E017",
+   "name": "Sunita Meena (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "soybean",
+    "cotton",
+    "maize"
+   ],
+   "expertise": [
+    "leaf spot",
+    "powdery mildew",
+    "downy mildew"
+   ],
+   "organisation": "Sample Agri Startup, Meerut",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "rating": 4.0,
+   "review_count": 14,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E018",
+   "name": "Dinesh Mishra (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "groundnut",
+    "chilli",
+    "maize",
+    "mustard",
+    "soybean"
+   ],
+   "expertise": [
+    "rust",
+    "powdery mildew",
+    "leaf curl virus",
+    "leaf spot"
+   ],
+   "organisation": "Sample District Agriculture Office, Aurangabad",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 28,
+   "languages": [
+    "Hindi",
+    "Marathi"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.0,
+   "review_count": 384,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "id": "E019",
+   "name": "Rekha Pawar (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "tomato",
+    "cotton",
+    "maize",
+    "onion",
+    "wheat"
+   ],
+   "expertise": [
+    "rust",
+    "anthracnose",
+    "wilt",
+    "mosaic virus",
+    "powdery mildew"
+   ],
+   "organisation": "Sample State Agricultural University, Jaipur",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 24,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 3.9,
+   "review_count": 200,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E020",
+   "name": "Prakash Kale (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "groundnut",
+    "wheat"
+   ],
+   "expertise": [
+    "downy mildew",
+    "leaf curl virus",
+    "powdery mildew",
+    "late blight",
+    "wilt"
+   ],
+   "organisation": "Sample KVK, Varanasi",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 3.9,
+   "review_count": 375,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E021",
+   "name": "Suresh Gowda (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "groundnut",
+    "grapes"
+   ],
+   "expertise": [
+    "wilt",
+    "early blight",
+    "leaf curl virus",
+    "mosaic virus",
+    "anthracnose",
+    "powdery mildew"
+   ],
+   "organisation": "Sample KVK, Aurangabad",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 3,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.4,
+   "review_count": 262,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E022",
+   "name": "Kiran Chauhan (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "banana",
+    "onion",
+    "grapes"
+   ],
+   "expertise": [
+    "late blight",
+    "bacterial blight",
+    "leaf curl virus",
+    "downy mildew",
+    "early blight",
+    "powdery mildew"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Pune",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 9,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.3,
+   "review_count": 73,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E023",
+   "name": "Rekha Tiwari (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "banana",
+    "groundnut",
+    "rice",
+    "chilli",
+    "soybean"
+   ],
+   "expertise": [
+    "late blight",
+    "bacterial blight",
+    "early blight",
+    "downy mildew",
+    "mosaic virus"
+   ],
+   "organisation": "Sample District Agriculture Office, Lucknow",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 18,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.0,
+   "review_count": 112,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E024",
+   "name": "Neha Hegde (sample)",
+   "expert_type": "Plant Pathologist",
+   "crops": [
+    "tomato",
+    "wheat"
+   ],
+   "expertise": [
+    "leaf curl virus",
+    "bacterial blight",
+    "blast",
+    "downy mildew",
+    "leaf spot",
+    "anthracnose"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Plant Pathology)",
+   "experience_years": 30,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.7,
+   "review_count": 5,
+   "fee": 300,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed"
+   ]
+  },
+  {
+   "id": "E025",
+   "name": "Prakash Hegde (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "mustard",
+    "banana"
+   ],
+   "expertise": [
+    "fruit borer",
+    "aphids",
+    "pod borer",
+    "whitefly",
+    "termites",
+    "fall armyworm"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Meerut",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 4,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "rating": 4.1,
+   "review_count": 166,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E026",
+   "name": "Lakshmi Verma (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "brinjal",
+    "wheat",
+    "chilli",
+    "cotton"
+   ],
+   "expertise": [
+    "pink bollworm",
+    "fall armyworm",
+    "stem borer",
+    "fruit borer"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.1,
+   "review_count": 340,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E027",
+   "name": "Anil Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "maize",
+    "chilli",
+    "soybean",
+    "grapes",
+    "rice"
+   ],
+   "expertise": [
+    "stem borer",
+    "mites",
+    "whitefly",
+    "pod borer"
+   ],
+   "organisation": "Sample State Agricultural University, Jaipur",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.0,
+   "review_count": 15,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E028",
+   "name": "Basavaraj Gowda (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "potato",
+    "rice",
+    "maize"
+   ],
+   "expertise": [
+    "fall armyworm",
+    "pod borer",
+    "pink bollworm",
+    "termites"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 10,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 4.4,
+   "review_count": 247,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E029",
+   "name": "Kiran Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "rice",
+    "wheat"
+   ],
+   "expertise": [
+    "jassids",
+    "brown plant hopper",
+    "aphids",
+    "fruit borer"
+   ],
+   "organisation": "Sample District Agriculture Office, Jaipur",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 5,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.4,
+   "review_count": 62,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E030",
+   "name": "Rekha Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "chickpea",
+    "brinjal",
+    "grapes",
+    "soybean"
+   ],
+   "expertise": [
+    "mites",
+    "jassids",
+    "pod borer",
+    "termites",
+    "aphids",
+    "brown plant hopper"
+   ],
+   "organisation": "Sample KVK, Nagpur",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 19,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 3.9,
+   "review_count": 121,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E031",
+   "name": "Prakash Chauhan (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "sugarcane",
+    "mustard"
+   ],
+   "expertise": [
+    "jassids",
+    "pink bollworm",
+    "pod borer"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Amritsar",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 23,
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 4.6,
+   "review_count": 156,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E032",
+   "name": "Prakash Pawar (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "wheat",
+    "sugarcane",
+    "cotton"
+   ],
+   "expertise": [
+    "aphids",
+    "pod borer",
+    "thrips",
+    "fall armyworm",
+    "pink bollworm",
+    "stem borer"
+   ],
+   "organisation": "Sample Agri Startup, Nagpur",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 6,
+   "languages": [
+    "Marathi",
+    "Hindi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 3.9,
+   "review_count": 339,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E033",
+   "name": "Seema Mishra (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "potato",
+    "brinjal"
+   ],
+   "expertise": [
+    "fruit borer",
+    "fall armyworm",
+    "whitefly",
+    "aphids",
+    "pink bollworm"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Nashik",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 4,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.4,
+   "review_count": 247,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E034",
+   "name": "Mahesh Shinde (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "mustard",
+    "maize",
+    "tomato",
+    "sugarcane"
+   ],
+   "expertise": [
+    "fruit borer",
+    "stem borer",
+    "pod borer"
+   ],
+   "organisation": "Sample State Agricultural University, Meerut",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 25,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 3.9,
+   "review_count": 124,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E035",
+   "name": "Kiran Gill (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "onion",
+    "tomato",
+    "grapes"
+   ],
+   "expertise": [
+    "pink bollworm",
+    "stem borer",
+    "brown plant hopper",
+    "whitefly",
+    "jassids"
+   ],
+   "organisation": "Sample KVK, Ujjain",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 27,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.5,
+   "review_count": 251,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E036",
+   "name": "Mohan Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "onion",
+    "cotton",
+    "potato"
+   ],
+   "expertise": [
+    "brown plant hopper",
+    "termites",
+    "jassids",
+    "mites",
+    "whitefly",
+    "fall armyworm"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 17,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.2,
+   "review_count": 382,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E037",
+   "name": "Prakash Jadhav (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "onion",
+    "chickpea",
+    "groundnut"
+   ],
+   "expertise": [
+    "termites",
+    "pink bollworm",
+    "aphids"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Indore",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 4,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.5,
+   "review_count": 196,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E038",
+   "name": "Anita Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "wheat",
+    "rice",
+    "chickpea",
+    "sugarcane"
+   ],
+   "expertise": [
+    "jassids",
+    "aphids",
+    "stem borer",
+    "brown plant hopper",
+    "thrips"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Pune",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 18,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "rating": 4.6,
+   "review_count": 172,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E039",
+   "name": "Prakash Rathore (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "cotton",
+    "chickpea",
+    "brinjal"
+   ],
+   "expertise": [
+    "pod borer",
+    "fruit borer",
+    "fall armyworm",
+    "termites",
+    "mites",
+    "jassids"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 5,
+   "languages": [
+    "Marathi",
+    "Hindi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.1,
+   "review_count": 14,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E040",
+   "name": "Seema Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "maize",
+    "wheat",
+    "banana"
+   ],
+   "expertise": [
+    "termites",
+    "fall armyworm",
+    "whitefly",
+    "stem borer"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 20,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "rating": 4.3,
+   "review_count": 39,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E041",
+   "name": "Dinesh Hegde (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "tomato",
+    "chickpea"
+   ],
+   "expertise": [
+    "brown plant hopper",
+    "fall armyworm",
+    "pod borer",
+    "jassids"
+   ],
+   "organisation": "Sample KVK, Agra",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 21,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.2,
+   "review_count": 270,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E042",
+   "name": "Anil Yadav (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "banana",
+    "chilli",
+    "grapes",
+    "chickpea",
+    "maize"
+   ],
+   "expertise": [
+    "fruit borer",
+    "brown plant hopper",
+    "jassids",
+    "fall armyworm",
+    "mites",
+    "stem borer"
+   ],
+   "organisation": "Sample KVK, Mysuru",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 23,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.4,
+   "review_count": 255,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E043",
+   "name": "Mahesh Tiwari (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "rice",
+    "chickpea"
+   ],
+   "expertise": [
+    "whitefly",
+    "stem borer",
+    "mites",
+    "pod borer"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 13,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.4,
+   "review_count": 74,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E044",
+   "name": "Kiran Deshmukh (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "mustard",
+    "sugarcane"
+   ],
+   "expertise": [
+    "thrips",
+    "stem borer",
+    "brown plant hopper",
+    "fruit borer",
+    "pink bollworm"
+   ],
+   "organisation": "Sample State Agricultural University, Varanasi",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 23,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.1,
+   "review_count": 139,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E045",
+   "name": "Anil Hegde (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "chilli",
+    "rice",
+    "groundnut"
+   ],
+   "expertise": [
+    "termites",
+    "stem borer",
+    "pink bollworm"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Belagavi",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 23,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.7,
+   "review_count": 382,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E046",
+   "name": "Kiran Pawar (sample)",
+   "expert_type": "Entomologist",
+   "crops": [
+    "chilli",
+    "maize",
+    "chickpea",
+    "sugarcane"
+   ],
+   "expertise": [
+    "pod borer",
+    "aphids",
+    "termites",
+    "jassids",
+    "thrips"
+   ],
+   "organisation": "Sample State Agricultural University, Jabalpur",
+   "qualifications": "M.Sc. (Entomology)",
+   "experience_years": 21,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 4.7,
+   "review_count": 72,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E047",
+   "name": "Kavita Meena (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "onion",
+    "potato",
+    "sugarcane",
+    "maize"
+   ],
+   "expertise": [
+    "zinc deficiency",
+    "boron deficiency",
+    "iron deficiency",
+    "acidic soil"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Jaipur",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 11,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.4,
+   "review_count": 235,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E048",
+   "name": "Sanjay Shinde (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "onion",
+    "cotton",
+    "wheat",
+    "grapes",
+    "groundnut"
+   ],
+   "expertise": [
+    "soil testing",
+    "potassium deficiency",
+    "phosphorus deficiency"
+   ],
+   "organisation": "Sample District Agriculture Office, Jaipur",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 3.9,
+   "review_count": 287,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E049",
+   "name": "Sunita Choudhary (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "groundnut",
+    "grapes"
+   ],
+   "expertise": [
+    "saline soil",
+    "phosphorus deficiency",
+    "boron deficiency",
+    "soil testing",
+    "zinc deficiency",
+    "acidic soil"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Nashik",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 22,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.0,
+   "review_count": 388,
+   "fee": 300,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E050",
+   "name": "Vijay Deshmukh (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "tomato",
+    "mustard",
+    "brinjal"
+   ],
+   "expertise": [
+    "soil testing",
+    "boron deficiency",
+    "iron deficiency",
+    "phosphorus deficiency"
+   ],
+   "organisation": "Sample KVK, Kota",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 7,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.4,
+   "review_count": 18,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E051",
+   "name": "Kavita Yadav (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "mustard",
+    "cotton",
+    "brinjal"
+   ],
+   "expertise": [
+    "nitrogen deficiency",
+    "acidic soil",
+    "phosphorus deficiency"
+   ],
+   "organisation": "Sample KVK, Indore",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 2,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.5,
+   "review_count": 395,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E052",
+   "name": "Kavita Pawar (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "cotton",
+    "grapes"
+   ],
+   "expertise": [
+    "saline soil",
+    "phosphorus deficiency",
+    "acidic soil",
+    "nitrogen deficiency",
+    "soil testing"
+   ],
+   "organisation": "Sample State Agricultural University, Jabalpur",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 8,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 3.8,
+   "review_count": 136,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E053",
+   "name": "Gurpreet Yadav (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "brinjal",
+    "mustard",
+    "wheat",
+    "chilli"
+   ],
+   "expertise": [
+    "phosphorus deficiency",
+    "iron deficiency",
+    "acidic soil",
+    "zinc deficiency"
+   ],
+   "organisation": "Sample KVK, Ludhiana",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 15,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 3.8,
+   "review_count": 256,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E054",
+   "name": "Rekha Chauhan (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "brinjal",
+    "cotton",
+    "rice"
+   ],
+   "expertise": [
+    "saline soil",
+    "phosphorus deficiency",
+    "boron deficiency"
+   ],
+   "organisation": "Sample Agri Startup, Meerut",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 7,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.6,
+   "review_count": 386,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E055",
+   "name": "Sanjay Verma (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "mustard",
+    "sugarcane"
+   ],
+   "expertise": [
+    "acidic soil",
+    "potassium deficiency",
+    "soil testing",
+    "zinc deficiency",
+    "iron deficiency"
+   ],
+   "organisation": "Sample District Agriculture Office, Bathinda",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 9,
+   "languages": [
+    "Hindi",
+    "Punjabi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 4.5,
+   "review_count": 301,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E056",
+   "name": "Kiran Verma (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "chickpea",
+    "sugarcane",
+    "chilli"
+   ],
+   "expertise": [
+    "potassium deficiency",
+    "zinc deficiency",
+    "acidic soil",
+    "phosphorus deficiency",
+    "soil testing"
+   ],
+   "organisation": "Sample Agri Startup, Belagavi",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 6,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 3.9,
+   "review_count": 82,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E057",
+   "name": "Sunita Patil (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "grapes",
+    "mustard",
+    "soybean",
+    "chilli",
+    "chickpea"
+   ],
+   "expertise": [
+    "saline soil",
+    "nitrogen deficiency",
+    "phosphorus deficiency",
+    "potassium deficiency",
+    "iron deficiency"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.7,
+   "review_count": 225,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E058",
+   "name": "Dinesh Yadav (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "onion",
+    "groundnut",
+    "potato",
+    "mustard",
+    "banana"
+   ],
+   "expertise": [
+    "iron deficiency",
+    "soil testing",
+    "zinc deficiency",
+    "saline soil"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ludhiana",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 10,
+   "languages": [
+    "Hindi",
+    "Punjabi"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 4.5,
+   "review_count": 204,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E059",
+   "name": "Basavaraj Tiwari (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "brinjal",
+    "chilli",
+    "wheat"
+   ],
+   "expertise": [
+    "acidic soil",
+    "boron deficiency",
+    "zinc deficiency",
+    "saline soil",
+    "soil testing"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Jaipur",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 5,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.4,
+   "review_count": 319,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E060",
+   "name": "Seema Kale (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "soybean",
+    "brinjal",
+    "maize",
+    "mustard"
+   ],
+   "expertise": [
+    "acidic soil",
+    "zinc deficiency",
+    "soil testing",
+    "saline soil",
+    "boron deficiency",
+    "phosphorus deficiency"
+   ],
+   "organisation": "Sample District Agriculture Office, Dharwad",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 23,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.1,
+   "review_count": 333,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E061",
+   "name": "Neha Gowda (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "chilli",
+    "mustard",
+    "potato"
+   ],
+   "expertise": [
+    "soil testing",
+    "potassium deficiency",
+    "zinc deficiency",
+    "nitrogen deficiency",
+    "saline soil"
+   ],
+   "organisation": "Sample District Agriculture Office, Kota",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.2,
+   "review_count": 224,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E062",
+   "name": "Suresh Meena (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "wheat",
+    "chickpea",
+    "brinjal",
+    "soybean"
+   ],
+   "expertise": [
+    "iron deficiency",
+    "acidic soil",
+    "saline soil"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Jaipur",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 27,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.6,
+   "review_count": 182,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E063",
+   "name": "Rekha Chauhan (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "potato",
+    "chilli",
+    "rice",
+    "mustard",
+    "onion"
+   ],
+   "expertise": [
+    "acidic soil",
+    "phosphorus deficiency",
+    "potassium deficiency"
+   ],
+   "organisation": "Sample District Agriculture Office, Kota",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 28,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.4,
+   "review_count": 34,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E064",
+   "name": "Basavaraj Choudhary (sample)",
+   "expert_type": "Soil Scientist",
+   "crops": [
+    "banana",
+    "tomato",
+    "potato",
+    "grapes"
+   ],
+   "expertise": [
+    "potassium deficiency",
+    "boron deficiency",
+    "saline soil"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Soil Science)",
+   "experience_years": 24,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.5,
+   "review_count": 174,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "id": "E065",
+   "name": "Asha Gowda (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "brinjal",
+    "groundnut",
+    "chilli",
+    "grapes"
+   ],
+   "expertise": [
+    "fertilizer schedule",
+    "yield improvement",
+    "seed selection",
+    "sowing"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Jabalpur",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 5,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 4.1,
+   "review_count": 257,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E066",
+   "name": "Suresh Kale (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "rice",
+    "potato"
+   ],
+   "expertise": [
+    "intercropping",
+    "seed selection",
+    "crop planning",
+    "sowing",
+    "fertilizer schedule",
+    "yield improvement"
+   ],
+   "organisation": "Sample District Agriculture Office, Lucknow",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 11,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.3,
+   "review_count": 341,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E067",
+   "name": "Asha Singh (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "grapes",
+    "groundnut"
+   ],
+   "expertise": [
+    "seed selection",
+    "crop planning",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample State Agricultural University, Dharwad",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 5,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.1,
+   "review_count": 168,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E068",
+   "name": "Mohan Hegde (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "cotton",
+    "wheat",
+    "chickpea",
+    "potato",
+    "sugarcane"
+   ],
+   "expertise": [
+    "yield improvement",
+    "seed selection",
+    "crop planning",
+    "intercropping"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi",
+    "Marathi"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.3,
+   "review_count": 9,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E069",
+   "name": "Pooja Tiwari (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "rice",
+    "tomato",
+    "groundnut"
+   ],
+   "expertise": [
+    "seed selection",
+    "crop planning",
+    "fertilizer schedule",
+    "yield improvement"
+   ],
+   "organisation": "Sample District Agriculture Office, Agra",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "rating": 4.7,
+   "review_count": 31,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E070",
+   "name": "Kiran Shinde (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "brinjal",
+    "sugarcane",
+    "wheat"
+   ],
+   "expertise": [
+    "fertilizer schedule",
+    "intercropping",
+    "yield improvement",
+    "sowing",
+    "crop planning"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ludhiana",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 11,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.4,
+   "review_count": 218,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E071",
+   "name": "Lakshmi Sandhu (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "maize",
+    "sugarcane"
+   ],
+   "expertise": [
+    "intercropping",
+    "yield improvement",
+    "sowing",
+    "seed selection",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample District Agriculture Office, Jodhpur",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 24,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.6,
+   "review_count": 150,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E072",
+   "name": "Harjit Choudhary (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "cotton",
+    "chilli",
+    "banana",
+    "onion"
+   ],
+   "expertise": [
+    "sowing",
+    "seed selection",
+    "fertilizer schedule",
+    "yield improvement",
+    "crop planning",
+    "intercropping"
+   ],
+   "organisation": "Sample State Agricultural University, Kota",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 10,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.5,
+   "review_count": 202,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E073",
+   "name": "Gurpreet Kale (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "potato",
+    "soybean",
+    "banana"
+   ],
+   "expertise": [
+    "sowing",
+    "fertilizer schedule",
+    "intercropping"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Jodhpur",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 17,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.6,
+   "review_count": 131,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "id": "E074",
+   "name": "Ramesh Gowda (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "wheat",
+    "rice",
+    "brinjal",
+    "soybean"
+   ],
+   "expertise": [
+    "intercropping",
+    "seed selection",
+    "sowing",
+    "yield improvement",
+    "fertilizer schedule",
+    "crop planning"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Indore",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 21,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.1,
+   "review_count": 24,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E075",
+   "name": "Mohan Tiwari (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "cotton",
+    "grapes",
+    "sugarcane",
+    "chickpea",
+    "potato"
+   ],
+   "expertise": [
+    "seed selection",
+    "crop planning",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Kota",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 29,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.4,
+   "review_count": 98,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E076",
+   "name": "Harjit Patil (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "chilli",
+    "groundnut"
+   ],
+   "expertise": [
+    "crop planning",
+    "seed selection",
+    "sowing",
+    "yield improvement",
+    "intercropping",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Meerut",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 3,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.1,
+   "review_count": 195,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E077",
+   "name": "Sunita Singh (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "cotton",
+    "banana",
+    "sugarcane"
+   ],
+   "expertise": [
+    "seed selection",
+    "sowing",
+    "yield improvement",
+    "crop planning",
+    "intercropping"
+   ],
+   "organisation": "Sample State Agricultural University, Dharwad",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 27,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.7,
+   "review_count": 249,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E078",
+   "name": "Suresh Jadhav (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "grapes",
+    "soybean",
+    "cotton",
+    "wheat",
+    "maize"
+   ],
+   "expertise": [
+    "fertilizer schedule",
+    "sowing",
+    "seed selection",
+    "intercropping",
+    "crop planning"
+   ],
+   "organisation": "Sample State Agricultural University, Kota",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.0,
+   "review_count": 267,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E079",
+   "name": "Meena Jadhav (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "onion",
+    "rice",
+    "potato"
+   ],
+   "expertise": [
+    "yield improvement",
+    "sowing",
+    "crop planning",
+    "fertilizer schedule",
+    "intercropping"
+   ],
+   "organisation": "Sample State Agricultural University, Varanasi",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 13,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "rating": 4.3,
+   "review_count": 231,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E080",
+   "name": "Anita Verma (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "onion",
+    "mustard",
+    "cotton"
+   ],
+   "expertise": [
+    "intercropping",
+    "crop planning",
+    "seed selection",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ujjain",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.4,
+   "review_count": 367,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E081",
+   "name": "Seema Sandhu (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "brinjal",
+    "rice",
+    "wheat",
+    "potato"
+   ],
+   "expertise": [
+    "sowing",
+    "fertilizer schedule",
+    "seed selection",
+    "crop planning",
+    "yield improvement",
+    "intercropping"
+   ],
+   "organisation": "Sample KVK, Dharwad",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 18,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.7,
+   "review_count": 41,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E082",
+   "name": "Gurpreet Patil (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "wheat",
+    "soybean",
+    "rice"
+   ],
+   "expertise": [
+    "intercropping",
+    "sowing",
+    "seed selection",
+    "crop planning"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 3.9,
+   "review_count": 362,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E083",
+   "name": "Vijay Yadav (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "brinjal",
+    "sugarcane",
+    "chilli",
+    "groundnut",
+    "maize"
+   ],
+   "expertise": [
+    "crop planning",
+    "seed selection",
+    "yield improvement"
+   ],
+   "organisation": "Sample State Agricultural University, Dharwad",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 3,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.1,
+   "review_count": 208,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E084",
+   "name": "Anil Mishra (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "groundnut",
+    "grapes",
+    "chilli",
+    "wheat"
+   ],
+   "expertise": [
+    "intercropping",
+    "sowing",
+    "fertilizer schedule",
+    "crop planning",
+    "seed selection"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 9,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "rating": 3.8,
+   "review_count": 226,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E085",
+   "name": "Dinesh Shinde (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "chilli",
+    "chickpea",
+    "brinjal",
+    "groundnut"
+   ],
+   "expertise": [
+    "intercropping",
+    "crop planning",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample KVK, Pune",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 3,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.0,
+   "review_count": 161,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E086",
+   "name": "Harjit Verma (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "soybean",
+    "chilli",
+    "cotton",
+    "maize",
+    "potato"
+   ],
+   "expertise": [
+    "fertilizer schedule",
+    "sowing",
+    "crop planning",
+    "seed selection",
+    "intercropping"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi",
+    "Marathi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "rating": 4.4,
+   "review_count": 192,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E087",
+   "name": "Prakash Kale (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "wheat",
+    "banana",
+    "tomato",
+    "cotton",
+    "soybean"
+   ],
+   "expertise": [
+    "intercropping",
+    "fertilizer schedule",
+    "yield improvement",
+    "sowing",
+    "seed selection"
+   ],
+   "organisation": "Sample Agri Startup, Bhopal",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 19,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.0,
+   "review_count": 39,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E088",
+   "name": "Seema Verma (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "chilli",
+    "grapes",
+    "banana"
+   ],
+   "expertise": [
+    "seed selection",
+    "yield improvement",
+    "fertilizer schedule"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Bathinda",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 23,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.3,
+   "review_count": 286,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "id": "E089",
+   "name": "Rekha Gowda (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "mustard",
+    "potato",
+    "chilli",
+    "grapes"
+   ],
+   "expertise": [
+    "seed selection",
+    "fertilizer schedule",
+    "crop planning",
+    "intercropping",
+    "sowing",
+    "yield improvement"
+   ],
+   "organisation": "Sample District Agriculture Office, Amritsar",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "Punjabi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.2,
+   "review_count": 198,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E090",
+   "name": "Sunita Jadhav (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "sugarcane",
+    "banana",
+    "chilli",
+    "groundnut",
+    "maize"
+   ],
+   "expertise": [
+    "intercropping",
+    "seed selection",
+    "yield improvement",
+    "sowing",
+    "fertilizer schedule",
+    "crop planning"
+   ],
+   "organisation": "Sample KVK, Ludhiana",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 2,
+   "languages": [
+    "Hindi",
+    "Punjabi"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 3.8,
+   "review_count": 122,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E091",
+   "name": "Lakshmi Kale (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "cotton",
+    "brinjal",
+    "tomato",
+    "grapes"
+   ],
+   "expertise": [
+    "crop planning",
+    "fertilizer schedule",
+    "sowing",
+    "seed selection",
+    "yield improvement"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 26,
+   "languages": [
+    "Hindi",
+    "Punjabi"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 4.2,
+   "review_count": 266,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E092",
+   "name": "Kiran Pawar (sample)",
+   "expert_type": "Agronomist",
+   "crops": [
+    "wheat",
+    "groundnut",
+    "brinjal",
+    "maize",
+    "mustard"
+   ],
+   "expertise": [
+    "fertilizer schedule",
+    "yield improvement",
+    "crop planning"
+   ],
+   "organisation": "Sample District Agriculture Office, Jodhpur",
+   "qualifications": "M.Sc. (Agronomy)",
+   "experience_years": 22,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "rating": 4.0,
+   "review_count": 398,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E093",
+   "name": "Gurpreet Meena (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "wheat",
+    "rice"
+   ],
+   "expertise": [
+    "flower drop",
+    "nursery",
+    "orchard management"
+   ],
+   "organisation": "Sample State Agricultural University, Aurangabad",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 7,
+   "languages": [
+    "Hindi",
+    "Marathi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 3.9,
+   "review_count": 126,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E094",
+   "name": "Ramesh Pawar (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "groundnut",
+    "sugarcane",
+    "brinjal"
+   ],
+   "expertise": [
+    "orchard management",
+    "fruit drop",
+    "flower drop"
+   ],
+   "organisation": "Sample Agri Startup, Ludhiana",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 14,
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 4.6,
+   "review_count": 166,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E095",
+   "name": "Asha Kale (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "grapes",
+    "maize",
+    "potato"
+   ],
+   "expertise": [
+    "fruit drop",
+    "flower drop",
+    "fruit cracking",
+    "orchard management",
+    "pruning",
+    "nursery"
+   ],
+   "organisation": "Sample District Agriculture Office, Ujjain",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 4.2,
+   "review_count": 190,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E096",
+   "name": "Rajesh Tiwari (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "mustard",
+    "soybean",
+    "potato",
+    "wheat"
+   ],
+   "expertise": [
+    "fruit cracking",
+    "fruit drop",
+    "pruning",
+    "nursery",
+    "orchard management"
+   ],
+   "organisation": "Sample State Agricultural University, Jodhpur",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.3,
+   "review_count": 70,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E097",
+   "name": "Dinesh Kale (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "sugarcane",
+    "onion",
+    "chilli"
+   ],
+   "expertise": [
+    "flower drop",
+    "orchard management",
+    "fruit cracking",
+    "pruning"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.3,
+   "review_count": 211,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E098",
+   "name": "Basavaraj Verma (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "wheat",
+    "potato",
+    "mustard",
+    "rice"
+   ],
+   "expertise": [
+    "flower drop",
+    "pruning",
+    "fruit cracking",
+    "nursery"
+   ],
+   "organisation": "Sample District Agriculture Office, Pune",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 24,
+   "languages": [
+    "Marathi",
+    "Hindi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.1,
+   "review_count": 372,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E099",
+   "name": "Dinesh Verma (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "tomato",
+    "wheat",
+    "brinjal",
+    "chickpea"
+   ],
+   "expertise": [
+    "orchard management",
+    "fruit drop",
+    "fruit cracking",
+    "nursery",
+    "flower drop"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 26,
+   "languages": [
+    "Hindi",
+    "Punjabi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.2,
+   "review_count": 316,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E100",
+   "name": "Prakash Pawar (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "tomato",
+    "sugarcane",
+    "grapes",
+    "soybean"
+   ],
+   "expertise": [
+    "fruit cracking",
+    "nursery",
+    "pruning",
+    "flower drop",
+    "orchard management",
+    "fruit drop"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Indore",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.6,
+   "review_count": 353,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E101",
+   "name": "Pooja Jadhav (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "mustard",
+    "potato"
+   ],
+   "expertise": [
+    "pruning",
+    "nursery",
+    "orchard management",
+    "fruit cracking",
+    "fruit drop",
+    "flower drop"
+   ],
+   "organisation": "Sample Agri Startup, Mysuru",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 28,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.8,
+   "review_count": 291,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E102",
+   "name": "Meena Sharma (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "sugarcane",
+    "cotton",
+    "banana"
+   ],
+   "expertise": [
+    "fruit cracking",
+    "orchard management",
+    "flower drop",
+    "pruning",
+    "fruit drop",
+    "nursery"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ujjain",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 13,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 4.4,
+   "review_count": 73,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E103",
+   "name": "Lakshmi Tiwari (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "potato",
+    "rice",
+    "mustard",
+    "maize",
+    "wheat"
+   ],
+   "expertise": [
+    "orchard management",
+    "flower drop",
+    "fruit drop",
+    "fruit cracking",
+    "nursery"
+   ],
+   "organisation": "Sample District Agriculture Office, Mysuru",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 6,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.6,
+   "review_count": 87,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E104",
+   "name": "Kiran Sandhu (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "soybean",
+    "chickpea",
+    "onion",
+    "potato"
+   ],
+   "expertise": [
+    "flower drop",
+    "nursery",
+    "pruning",
+    "fruit drop",
+    "fruit cracking",
+    "orchard management"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 4,
+   "languages": [
+    "Hindi",
+    "Punjabi"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 3.9,
+   "review_count": 19,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E105",
+   "name": "Prakash Singh (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "chickpea",
+    "soybean",
+    "tomato",
+    "cotton"
+   ],
+   "expertise": [
+    "pruning",
+    "flower drop",
+    "fruit drop",
+    "orchard management",
+    "fruit cracking"
+   ],
+   "organisation": "Sample Agri Startup, Belagavi",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 12,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 4.2,
+   "review_count": 379,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E106",
+   "name": "Prakash Sharma (sample)",
+   "expert_type": "Horticulturist",
+   "crops": [
+    "banana",
+    "onion"
+   ],
+   "expertise": [
+    "flower drop",
+    "pruning",
+    "fruit drop",
+    "orchard management"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "M.Sc. (Horticulture)",
+   "experience_years": 22,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.5,
+   "review_count": 268,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E107",
+   "name": "Sanjay Kale (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "potato",
+    "onion",
+    "rice",
+    "chilli"
+   ],
+   "expertise": [
+    "irrigation schedule",
+    "drought",
+    "sprinkler",
+    "drip irrigation",
+    "waterlogging"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Bathinda",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 2,
+   "languages": [
+    "Punjabi",
+    "Hindi"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 4.3,
+   "review_count": 157,
+   "fee": 500,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E108",
+   "name": "Sanjay Sharma (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "mustard",
+    "chilli",
+    "sugarcane"
+   ],
+   "expertise": [
+    "waterlogging",
+    "sprinkler",
+    "irrigation schedule",
+    "drought",
+    "drip irrigation"
+   ],
+   "organisation": "Sample District Agriculture Office, Jabalpur",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 25,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.4,
+   "review_count": 62,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E109",
+   "name": "Harjit Tiwari (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "soybean",
+    "mustard",
+    "chilli"
+   ],
+   "expertise": [
+    "drought",
+    "drip irrigation",
+    "sprinkler"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 9,
+   "languages": [
+    "Kannada",
+    "Hindi"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.2,
+   "review_count": 240,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E110",
+   "name": "Prakash Deshmukh (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "mustard",
+    "wheat"
+   ],
+   "expertise": [
+    "irrigation schedule",
+    "sprinkler",
+    "drought"
+   ],
+   "organisation": "Sample Agri Startup, Meerut",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 3,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.5,
+   "review_count": 49,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E111",
+   "name": "Seema Meena (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "brinjal",
+    "wheat",
+    "grapes",
+    "sugarcane"
+   ],
+   "expertise": [
+    "drip irrigation",
+    "waterlogging",
+    "drought",
+    "sprinkler",
+    "irrigation schedule"
+   ],
+   "organisation": "Sample KVK, Lucknow",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 9,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "rating": 4.4,
+   "review_count": 15,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E112",
+   "name": "Suresh Rathore (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "groundnut",
+    "grapes",
+    "cotton",
+    "sugarcane"
+   ],
+   "expertise": [
+    "irrigation schedule",
+    "waterlogging",
+    "sprinkler",
+    "drip irrigation",
+    "drought"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Nagpur",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 7,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "rating": 4.5,
+   "review_count": 23,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E113",
+   "name": "Rajesh Gill (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "rice",
+    "soybean",
+    "cotton"
+   ],
+   "expertise": [
+    "drought",
+    "waterlogging",
+    "irrigation schedule",
+    "sprinkler",
+    "drip irrigation"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Meerut",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 18,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "rating": 4.2,
+   "review_count": 15,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E114",
+   "name": "Mahesh Meena (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "mustard",
+    "sugarcane",
+    "banana",
+    "chilli"
+   ],
+   "expertise": [
+    "drip irrigation",
+    "irrigation schedule",
+    "drought",
+    "sprinkler"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 10,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "rating": 4.5,
+   "review_count": 126,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E115",
+   "name": "Anil Sandhu (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "mustard",
+    "banana",
+    "soybean",
+    "groundnut",
+    "grapes"
+   ],
+   "expertise": [
+    "sprinkler",
+    "irrigation schedule",
+    "drip irrigation",
+    "waterlogging",
+    "drought"
+   ],
+   "organisation": "Sample KVK, Agra",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 24,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "rating": 4.7,
+   "review_count": 305,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E116",
+   "name": "Anita Gill (sample)",
+   "expert_type": "Irrigation Specialist",
+   "crops": [
+    "banana",
+    "tomato",
+    "groundnut",
+    "mustard"
+   ],
+   "expertise": [
+    "drip irrigation",
+    "drought",
+    "sprinkler",
+    "irrigation schedule",
+    "waterlogging"
+   ],
+   "organisation": "Sample KVK, Kota",
+   "qualifications": "B.Tech (Agri Engg.)",
+   "experience_years": 20,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "rating": 4.1,
+   "review_count": 365,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E117",
+   "name": "Suresh Shinde (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "cotton",
+    "rice"
+   ],
+   "expertise": [
+    "phalaris minor",
+    "weed control",
+    "herbicide selection",
+    "broadleaf weeds",
+    "parthenium"
+   ],
+   "organisation": "Sample District Agriculture Office, Jabalpur",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 3,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "rating": 4.5,
+   "review_count": 18,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E118",
+   "name": "Neha Shinde (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "chilli",
+    "onion",
+    "grapes",
+    "wheat",
+    "groundnut"
+   ],
+   "expertise": [
+    "broadleaf weeds",
+    "parthenium",
+    "weed control",
+    "phalaris minor",
+    "herbicide selection"
+   ],
+   "organisation": "Sample Agri Startup, Dharwad",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 12,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.3,
+   "review_count": 51,
+   "fee": 300,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E119",
+   "name": "Mohan Choudhary (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "sugarcane",
+    "chickpea"
+   ],
+   "expertise": [
+    "broadleaf weeds",
+    "parthenium",
+    "phalaris minor",
+    "herbicide selection",
+    "weed control"
+   ],
+   "organisation": "Sample Agri Startup, Mysuru",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 10,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "rating": 3.9,
+   "review_count": 326,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E120",
+   "name": "Rajesh Rathore (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "chilli",
+    "sugarcane",
+    "tomato"
+   ],
+   "expertise": [
+    "phalaris minor",
+    "broadleaf weeds",
+    "parthenium",
+    "weed control"
+   ],
+   "organisation": "Sample Agri Startup, Nagpur",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 18,
+   "languages": [
+    "Marathi",
+    "Hindi"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 4.0,
+   "review_count": 181,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E121",
+   "name": "Seema Pawar (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "groundnut",
+    "potato",
+    "banana"
+   ],
+   "expertise": [
+    "weed control",
+    "parthenium",
+    "broadleaf weeds",
+    "phalaris minor"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 23,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.2,
+   "review_count": 222,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E122",
+   "name": "Mahesh Sandhu (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "brinjal",
+    "grapes"
+   ],
+   "expertise": [
+    "phalaris minor",
+    "parthenium",
+    "herbicide selection",
+    "broadleaf weeds"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Bhopal",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 11,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.6,
+   "review_count": 381,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E123",
+   "name": "Rekha Verma (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "soybean",
+    "groundnut",
+    "cotton",
+    "onion"
+   ],
+   "expertise": [
+    "weed control",
+    "herbicide selection",
+    "phalaris minor",
+    "parthenium",
+    "broadleaf weeds"
+   ],
+   "organisation": "Sample KVK, Indore",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 3.8,
+   "review_count": 263,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E124",
+   "name": "Kavita Yadav (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "maize",
+    "chilli",
+    "potato",
+    "wheat",
+    "cotton"
+   ],
+   "expertise": [
+    "broadleaf weeds",
+    "phalaris minor",
+    "parthenium",
+    "weed control"
+   ],
+   "organisation": "Sample KVK, Meerut",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 30,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.3,
+   "review_count": 115,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E125",
+   "name": "Vijay Sharma (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "potato",
+    "chilli"
+   ],
+   "expertise": [
+    "herbicide selection",
+    "parthenium",
+    "phalaris minor"
+   ],
+   "organisation": "Sample KVK, Indore",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 10,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Ujjain",
+   "rating": 4.3,
+   "review_count": 285,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E126",
+   "name": "Prakash Mishra (sample)",
+   "expert_type": "Weed Scientist",
+   "crops": [
+    "wheat",
+    "soybean",
+    "sugarcane"
+   ],
+   "expertise": [
+    "broadleaf weeds",
+    "herbicide selection",
+    "weed control",
+    "parthenium",
+    "phalaris minor"
+   ],
+   "organisation": "Sample State Agricultural University, Ludhiana",
+   "qualifications": "Ph.D. (Agronomy)",
+   "experience_years": 14,
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 4.1,
+   "review_count": 335,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E127",
+   "name": "Pooja Hegde (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "cotton",
+    "potato",
+    "chilli",
+    "maize"
+   ],
+   "expertise": [
+    "organic farming",
+    "vermicompost",
+    "jeevamrut",
+    "bio-pesticides",
+    "natural farming"
+   ],
+   "organisation": "Sample Agri Startup, Kota",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 14,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.3,
+   "review_count": 77,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E128",
+   "name": "Asha Tiwari (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "rice",
+    "tomato",
+    "potato"
+   ],
+   "expertise": [
+    "bio-pesticides",
+    "organic farming",
+    "vermicompost",
+    "natural farming",
+    "jeevamrut"
+   ],
+   "organisation": "Sample State Agricultural University, Mysuru",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 6,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "rating": 4.2,
+   "review_count": 236,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E129",
+   "name": "Gurpreet Verma (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "maize",
+    "tomato"
+   ],
+   "expertise": [
+    "natural farming",
+    "vermicompost",
+    "jeevamrut",
+    "bio-pesticides",
+    "organic farming"
+   ],
+   "organisation": "Sample State Agricultural University, Mysuru",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 26,
+   "languages": [
+    "Hindi",
+    "Kannada",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.4,
+   "review_count": 34,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E130",
+   "name": "Neha Sharma (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "maize",
+    "potato",
+    "groundnut"
+   ],
+   "expertise": [
+    "natural farming",
+    "jeevamrut",
+    "organic farming",
+    "vermicompost",
+    "bio-pesticides"
+   ],
+   "organisation": "Sample Agri Startup, Nagpur",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 22,
+   "languages": [
+    "Marathi",
+    "Hindi"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 4.5,
+   "review_count": 136,
+   "fee": 300,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E131",
+   "name": "Mahesh Sharma (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "groundnut",
+    "potato",
+    "chilli",
+    "banana",
+    "onion"
+   ],
+   "expertise": [
+    "organic farming",
+    "bio-pesticides",
+    "vermicompost"
+   ],
+   "organisation": "Sample State Agricultural University, Belagavi",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 12,
+   "languages": [
+    "Hindi",
+    "Kannada"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.6,
+   "review_count": 230,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E132",
+   "name": "Asha Gill (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "groundnut",
+    "brinjal",
+    "onion",
+    "rice"
+   ],
+   "expertise": [
+    "vermicompost",
+    "organic farming",
+    "jeevamrut"
+   ],
+   "organisation": "Sample Agri Startup, Ludhiana",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 3,
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "rating": 4.2,
+   "review_count": 33,
+   "fee": 200,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E133",
+   "name": "Dinesh Verma (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "chickpea",
+    "soybean",
+    "chilli",
+    "wheat"
+   ],
+   "expertise": [
+    "natural farming",
+    "jeevamrut",
+    "bio-pesticides",
+    "vermicompost"
+   ],
+   "organisation": "Sample KVK, Ludhiana",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 29,
+   "languages": [
+    "Hindi",
+    "Punjabi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 4.4,
+   "review_count": 266,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E134",
+   "name": "Sunita Chauhan (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "banana",
+    "chickpea",
+    "onion",
+    "mustard"
+   ],
+   "expertise": [
+    "jeevamrut",
+    "natural farming",
+    "organic farming",
+    "vermicompost"
+   ],
+   "organisation": "Sample State Agricultural University, Lucknow",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.1,
+   "review_count": 294,
+   "fee": 0,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E135",
+   "name": "Sanjay Hegde (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "potato",
+    "banana",
+    "soybean",
+    "wheat",
+    "cotton"
+   ],
+   "expertise": [
+    "organic farming",
+    "natural farming",
+    "bio-pesticides",
+    "jeevamrut",
+    "vermicompost"
+   ],
+   "organisation": "Sample Agri Startup, Bhopal",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 21,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.3,
+   "review_count": 350,
+   "fee": 300,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E136",
+   "name": "Mahesh Pawar (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "onion",
+    "chickpea",
+    "grapes",
+    "maize",
+    "mustard"
+   ],
+   "expertise": [
+    "bio-pesticides",
+    "vermicompost",
+    "organic farming",
+    "jeevamrut",
+    "natural farming"
+   ],
+   "organisation": "Sample State Agricultural University, Nashik",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 27,
+   "languages": [
+    "Hindi",
+    "Marathi"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.6,
+   "review_count": 373,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E137",
+   "name": "Prakash Verma (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "onion",
+    "chickpea",
+    "chilli",
+    "mustard"
+   ],
+   "expertise": [
+    "vermicompost",
+    "bio-pesticides",
+    "organic farming"
+   ],
+   "organisation": "Sample KVK, Bathinda",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 12,
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "rating": 3.9,
+   "review_count": 185,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E138",
+   "name": "Mahesh Chauhan (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "chilli",
+    "grapes",
+    "maize",
+    "sugarcane",
+    "groundnut"
+   ],
+   "expertise": [
+    "vermicompost",
+    "natural farming",
+    "bio-pesticides"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 30,
+   "languages": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "rating": 4.0,
+   "review_count": 311,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E139",
+   "name": "Neha Deshmukh (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "mustard",
+    "cotton",
+    "rice",
+    "groundnut"
+   ],
+   "expertise": [
+    "organic farming",
+    "bio-pesticides",
+    "natural farming",
+    "jeevamrut",
+    "vermicompost"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Agra",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.3,
+   "review_count": 54,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E140",
+   "name": "Ramesh Choudhary (sample)",
+   "expert_type": "Organic Farming Expert",
+   "crops": [
+    "maize",
+    "brinjal",
+    "rice",
+    "grapes"
+   ],
+   "expertise": [
+    "organic farming",
+    "vermicompost",
+    "bio-pesticides",
+    "jeevamrut"
+   ],
+   "organisation": "Sample KVK, Belagavi",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 12,
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "rating": 4.3,
+   "review_count": 26,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "id": "E141",
+   "name": "Harjit Meena (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "soybean",
+    "wheat",
+    "rice"
+   ],
+   "expertise": [
+    "general advice",
+    "soil health card",
+    "government schemes"
+   ],
+   "organisation": "Sample District Agriculture Office, Bhopal",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 29,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "rating": 4.7,
+   "review_count": 20,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri"
+   ]
+  },
+  {
+   "id": "E142",
+   "name": "Rajesh Deshmukh (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "rice",
+    "grapes",
+    "soybean"
+   ],
+   "expertise": [
+    "soil health card",
+    "government schemes",
+    "general advice"
+   ],
+   "organisation": "Sample District Agriculture Office, Nashik",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 20,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 4.4,
+   "review_count": 98,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E143",
+   "name": "Suresh Chauhan (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "onion",
+    "chickpea",
+    "tomato"
+   ],
+   "expertise": [
+    "government schemes",
+    "crop insurance",
+    "general advice"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ujjain",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 26,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 4.1,
+   "review_count": 325,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E144",
+   "name": "Kiran Choudhary (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "chilli",
+    "grapes",
+    "mustard"
+   ],
+   "expertise": [
+    "government schemes",
+    "soil health card",
+    "crop insurance",
+    "general advice"
+   ],
+   "organisation": "Sample District Agriculture Office, Amritsar",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 26,
+   "languages": [
+    "Hindi",
+    "Punjabi"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "rating": 4.4,
+   "review_count": 328,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E145",
+   "name": "Neha Kale (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "groundnut",
+    "chickpea"
+   ],
+   "expertise": [
+    "soil health card",
+    "crop insurance",
+    "general advice",
+    "government schemes"
+   ],
+   "organisation": "Sample State Agricultural University, Jaipur",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 30,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.7,
+   "review_count": 7,
+   "fee": 0,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E146",
+   "name": "Suresh Sandhu (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "cotton",
+    "tomato",
+    "potato"
+   ],
+   "expertise": [
+    "government schemes",
+    "crop insurance",
+    "soil health card",
+    "general advice"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Kota",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 16,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "rating": 4.2,
+   "review_count": 280,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E147",
+   "name": "Seema Singh (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "mustard",
+    "banana",
+    "grapes"
+   ],
+   "expertise": [
+    "soil health card",
+    "crop insurance",
+    "general advice",
+    "government schemes"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Varanasi",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.5,
+   "review_count": 58,
+   "fee": 200,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E148",
+   "name": "Meena Sharma (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "banana",
+    "maize",
+    "brinjal",
+    "tomato"
+   ],
+   "expertise": [
+    "general advice",
+    "soil health card",
+    "government schemes",
+    "crop insurance"
+   ],
+   "organisation": "Sample Farmer Producer Organisation, Ujjain",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 23,
+   "languages": [
+    "Hindi"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "rating": 3.9,
+   "review_count": 354,
+   "fee": 100,
+   "phone_consult": true,
+   "field_visit": true,
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E149",
+   "name": "Ramesh Jadhav (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "potato",
+    "sugarcane",
+    "banana"
+   ],
+   "expertise": [
+    "general advice",
+    "government schemes",
+    "crop insurance"
+   ],
+   "organisation": "Independent consultant",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 6,
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "rating": 4.1,
+   "review_count": 213,
+   "fee": 100,
+   "phone_consult": false,
+   "field_visit": false,
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  },
+  {
+   "id": "E150",
+   "name": "Suresh Chauhan (sample)",
+   "expert_type": "Agricultural Extension Officer",
+   "crops": [
+    "tomato",
+    "maize"
+   ],
+   "expertise": [
+    "soil health card",
+    "government schemes",
+    "crop insurance",
+    "general advice"
+   ],
+   "organisation": "Sample Agri Startup, Nagpur",
+   "qualifications": "B.Sc. (Agriculture)",
+   "experience_years": 13,
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "rating": 4.0,
+   "review_count": 169,
+   "fee": 500,
+   "phone_consult": true,
+   "field_visit": false,
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ]
+  }
+ ],
+ "products": [
+  {
+   "id": "P001",
+   "name": "Mancozeb 75% WP",
+   "category": "Fungicide",
+   "active_ingredient": "Mancozeb",
+   "targets": [
+    "early blight",
+    "late blight",
+    "leaf spot",
+    "downy mildew",
+    "rust",
+    "anthracnose"
+   ],
+   "crops": [
+    "tomato",
+    "potato",
+    "chilli",
+    "grapes",
+    "onion"
+   ],
+   "organic": false,
+   "dose": "2–2.5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 450,
+   "unit": "500 g"
+  },
+  {
+   "id": "P002",
+   "name": "Copper Oxychloride 50% WP",
+   "category": "Fungicide",
+   "active_ingredient": "Copper oxychloride",
+   "targets": [
+    "late blight",
+    "leaf spot",
+    "bacterial blight",
+    "bacterial leaf spot",
+    "canker",
+    "downy mildew"
+   ],
+   "crops": [
+    "tomato",
+    "potato",
+    "chilli",
+    "grapes",
+    "banana"
+   ],
+   "organic": false,
+   "dose": "2.5–3 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 400,
+   "unit": "500 g"
+  },
+  {
+   "id": "P003",
+   "name": "Metalaxyl 8% + Mancozeb 64% WP",
+   "category": "Fungicide",
+   "active_ingredient": "Metalaxyl + Mancozeb",
+   "targets": [
+    "late blight",
+    "downy mildew",
+    "damping off",
+    "root rot"
+   ],
+   "crops": [
+    "potato",
+    "tomato",
+    "grapes",
+    "onion"
+   ],
+   "organic": false,
+   "dose": "2.5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 650,
+   "unit": "500 g"
+  },
+  {
+   "id": "P004",
+   "name": "Carbendazim 50% WP",
+   "category": "Fungicide",
+   "active_ingredient": "Carbendazim",
+   "targets": [
+    "powdery mildew",
+    "anthracnose",
+    "leaf spot",
+    "wilt",
+    "root rot"
+   ],
+   "crops": [
+    "chilli",
+    "wheat",
+    "rice",
+    "groundnut"
+   ],
+   "organic": false,
+   "dose": "1 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 15,
+   "price_inr": 350,
+   "unit": "250 g"
+  },
+  {
+   "id": "P005",
+   "name": "Hexaconazole 5% EC",
+   "category": "Fungicide",
+   "active_ingredient": "Hexaconazole",
+   "targets": [
+    "powdery mildew",
+    "sheath blight",
+    "rust",
+    "leaf spot"
+   ],
+   "crops": [
+    "rice",
+    "grapes",
+    "chilli",
+    "groundnut"
+   ],
+   "organic": false,
+   "dose": "2 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 15,
+   "price_inr": 380,
+   "unit": "500 ml"
+  },
+  {
+   "id": "P006",
+   "name": "Propiconazole 25% EC",
+   "category": "Fungicide",
+   "active_ingredient": "Propiconazole",
+   "targets": [
+    "rust",
+    "sheath blight",
+    "leaf spot",
+    "powdery mildew"
+   ],
+   "crops": [
+    "wheat",
+    "rice",
+    "banana"
+   ],
+   "organic": false,
+   "dose": "1 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 30,
+   "price_inr": 520,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P007",
+   "name": "Tricyclazole 75% WP",
+   "category": "Fungicide",
+   "active_ingredient": "Tricyclazole",
+   "targets": [
+    "blast",
+    "rice blast",
+    "neck blast"
+   ],
+   "crops": [
+    "rice"
+   ],
+   "organic": false,
+   "dose": "0.6 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 30,
+   "price_inr": 420,
+   "unit": "120 g"
+  },
+  {
+   "id": "P008",
+   "name": "Azoxystrobin 23% SC",
+   "category": "Fungicide",
+   "active_ingredient": "Azoxystrobin",
+   "targets": [
+    "early blight",
+    "late blight",
+    "powdery mildew",
+    "downy mildew",
+    "anthracnose"
+   ],
+   "crops": [
+    "tomato",
+    "potato",
+    "chilli",
+    "grapes"
+   ],
+   "organic": false,
+   "dose": "1 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 5,
+   "price_inr": 900,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P009",
+   "name": "Wettable Sulphur 80% WG",
+   "category": "Fungicide",
+   "active_ingredient": "Sulphur",
+   "targets": [
+    "powdery mildew",
+    "mites"
+   ],
+   "crops": [
+    "grapes",
+    "chilli",
+    "mustard"
+   ],
+   "organic": false,
+   "dose": "2–3 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 5,
+   "price_inr": 250,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P010",
+   "name": "Trichoderma viride 1% WP",
+   "category": "Bio-fungicide",
+   "active_ingredient": "Trichoderma viride",
+   "targets": [
+    "wilt",
+    "root rot",
+    "damping off",
+    "collar rot"
+   ],
+   "crops": [],
+   "organic": true,
+   "dose": "Seed: 5–10 g per kg; soil: 2.5 kg mixed in 100 kg compost per acre (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 180,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P011",
+   "name": "Pseudomonas fluorescens 1% WP",
+   "category": "Bio-fungicide",
+   "active_ingredient": "Pseudomonas fluorescens",
+   "targets": [
+    "blast",
+    "bacterial blight",
+    "wilt",
+    "leaf spot",
+    "root rot"
+   ],
+   "crops": [
+    "rice",
+    "tomato",
+    "banana"
+   ],
+   "organic": true,
+   "dose": "10 g per litre of water; seed treatment 10 g per kg (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 200,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P012",
+   "name": "Imidacloprid 17.8% SL",
+   "category": "Insecticide",
+   "active_ingredient": "Imidacloprid",
+   "targets": [
+    "aphids",
+    "jassids",
+    "whitefly",
+    "thrips",
+    "brown plant hopper"
+   ],
+   "crops": [
+    "cotton",
+    "chilli",
+    "tomato",
+    "rice",
+    "brinjal"
+   ],
+   "organic": false,
+   "dose": "0.3–0.5 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 380,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P013",
+   "name": "Thiamethoxam 25% WG",
+   "category": "Insecticide",
+   "active_ingredient": "Thiamethoxam",
+   "targets": [
+    "aphids",
+    "whitefly",
+    "jassids",
+    "brown plant hopper",
+    "thrips"
+   ],
+   "crops": [
+    "cotton",
+    "rice",
+    "tomato",
+    "potato"
+   ],
+   "organic": false,
+   "dose": "0.3–0.5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 420,
+   "unit": "100 g"
+  },
+  {
+   "id": "P014",
+   "name": "Emamectin Benzoate 5% SG",
+   "category": "Insecticide",
+   "active_ingredient": "Emamectin benzoate",
+   "targets": [
+    "fruit borer",
+    "fall armyworm",
+    "diamondback moth",
+    "pod borer",
+    "shoot and fruit borer"
+   ],
+   "crops": [
+    "tomato",
+    "chilli",
+    "brinjal",
+    "maize",
+    "chickpea"
+   ],
+   "organic": false,
+   "dose": "0.4 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 5,
+   "price_inr": 450,
+   "unit": "100 g"
+  },
+  {
+   "id": "P015",
+   "name": "Chlorantraniliprole 18.5% SC",
+   "category": "Insecticide",
+   "active_ingredient": "Chlorantraniliprole",
+   "targets": [
+    "stem borer",
+    "fruit borer",
+    "fall armyworm",
+    "pod borer",
+    "leaf folder"
+   ],
+   "crops": [
+    "rice",
+    "maize",
+    "tomato",
+    "sugarcane",
+    "chickpea"
+   ],
+   "organic": false,
+   "dose": "0.3 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 3,
+   "price_inr": 1100,
+   "unit": "150 ml"
+  },
+  {
+   "id": "P016",
+   "name": "Spinosad 45% SC",
+   "category": "Insecticide",
+   "active_ingredient": "Spinosad",
+   "targets": [
+    "thrips",
+    "fruit borer",
+    "diamondback moth",
+    "leaf miner"
+   ],
+   "crops": [
+    "chilli",
+    "onion",
+    "tomato",
+    "brinjal"
+   ],
+   "organic": false,
+   "dose": "0.3 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 3,
+   "price_inr": 1300,
+   "unit": "75 ml"
+  },
+  {
+   "id": "P017",
+   "name": "Fipronil 5% SC",
+   "category": "Insecticide",
+   "active_ingredient": "Fipronil",
+   "targets": [
+    "stem borer",
+    "thrips",
+    "termites",
+    "leaf folder"
+   ],
+   "crops": [
+    "rice",
+    "chilli",
+    "sugarcane"
+   ],
+   "organic": false,
+   "dose": "1.5–2 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 15,
+   "price_inr": 350,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P018",
+   "name": "Lambda-cyhalothrin 5% EC",
+   "category": "Insecticide",
+   "active_ingredient": "Lambda-cyhalothrin",
+   "targets": [
+    "pod borer",
+    "fruit borer",
+    "bollworm",
+    "pink bollworm",
+    "jassids"
+   ],
+   "crops": [
+    "cotton",
+    "chickpea",
+    "tomato",
+    "brinjal"
+   ],
+   "organic": false,
+   "dose": "1 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 320,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P019",
+   "name": "Diafenthiuron 50% WP",
+   "category": "Insecticide",
+   "active_ingredient": "Diafenthiuron",
+   "targets": [
+    "whitefly",
+    "mites",
+    "jassids"
+   ],
+   "crops": [
+    "cotton",
+    "chilli",
+    "brinjal"
+   ],
+   "organic": false,
+   "dose": "1 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 480,
+   "unit": "250 g"
+  },
+  {
+   "id": "P020",
+   "name": "Spiromesifen 22.9% SC",
+   "category": "Miticide",
+   "active_ingredient": "Spiromesifen",
+   "targets": [
+    "mites",
+    "red spider mite",
+    "whitefly"
+   ],
+   "crops": [
+    "chilli",
+    "tomato",
+    "brinjal",
+    "cotton"
+   ],
+   "organic": false,
+   "dose": "0.8 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 7,
+   "price_inr": 1200,
+   "unit": "100 ml"
+  },
+  {
+   "id": "P021",
+   "name": "Buprofezin 25% SC",
+   "category": "Insecticide",
+   "active_ingredient": "Buprofezin",
+   "targets": [
+    "brown plant hopper",
+    "whitefly",
+    "mealybug"
+   ],
+   "crops": [
+    "rice",
+    "cotton"
+   ],
+   "organic": false,
+   "dose": "1.6 ml per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": 20,
+   "price_inr": 450,
+   "unit": "250 ml"
+  },
+  {
+   "id": "P022",
+   "name": "Neem Oil 1500 ppm (Azadirachtin)",
+   "category": "Bio-insecticide",
+   "active_ingredient": "Azadirachtin",
+   "targets": [
+    "aphids",
+    "whitefly",
+    "jassids",
+    "thrips",
+    "mites",
+    "leaf miner"
+   ],
+   "crops": [],
+   "organic": true,
+   "dose": "3–5 ml per litre of water with a few drops of liquid soap (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 300,
+   "unit": "1 litre"
+  },
+  {
+   "id": "P023",
+   "name": "Beauveria bassiana 1% WP",
+   "category": "Bio-insecticide",
+   "active_ingredient": "Beauveria bassiana",
+   "targets": [
+    "whitefly",
+    "stem borer",
+    "fruit borer",
+    "termites",
+    "aphids"
+   ],
+   "crops": [],
+   "organic": true,
+   "dose": "5 g per litre of water, spray in the evening (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 220,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P024",
+   "name": "Bacillus thuringiensis var. kurstaki",
+   "category": "Bio-insecticide",
+   "active_ingredient": "Bacillus thuringiensis",
+   "targets": [
+    "fruit borer",
+    "diamondback moth",
+    "fall armyworm",
+    "pod borer",
+    "caterpillar"
+   ],
+   "crops": [],
+   "organic": true,
+   "dose": "1–2 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 350,
+   "unit": "500 g"
+  },
+  {
+   "id": "P025",
+   "name": "Pheromone Trap + Lure (Helicoverpa)",
+   "category": "Bio-insecticide",
+   "active_ingredient": "Pheromone lure",
+   "targets": [
+    "fruit borer",
+    "pod borer",
+    "bollworm",
+    "pink bollworm"
+   ],
+   "crops": [
+    "tomato",
+    "chickpea",
+    "cotton"
+   ],
+   "organic": true,
+   "dose": "5 traps per acre; change lure every 3 weeks (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": 0,
+   "price_inr": 150,
+   "unit": "1 trap"
+  },
+  {
+   "id": "P026",
+   "name": "Pendimethalin 30% EC",
+   "category": "Herbicide",
+   "active_ingredient": "Pendimethalin",
+   "targets": [
+    "weed control",
+    "annual grasses",
+    "broadleaf weeds"
+   ],
+   "crops": [
+    "soybean",
+    "cotton",
+    "onion",
+    "wheat",
+    "chickpea"
+   ],
+   "organic": false,
+   "dose": "1–1.3 litre per acre in 200 litres of water, pre-emergence (within 3 days of sowing) (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 550,
+   "unit": "1 litre"
+  },
+  {
+   "id": "P027",
+   "name": "Metsulfuron Methyl 20% WP",
+   "category": "Herbicide",
+   "active_ingredient": "Metsulfuron methyl",
+   "targets": [
+    "broadleaf weeds",
+    "weed control"
+   ],
+   "crops": [
+    "wheat"
+   ],
+   "organic": false,
+   "dose": "8 g per acre in 150 litres of water, 30–35 days after sowing (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 150,
+   "unit": "8 g"
+  },
+  {
+   "id": "P028",
+   "name": "Clodinafop-propargyl 15% WP",
+   "category": "Herbicide",
+   "active_ingredient": "Clodinafop-propargyl",
+   "targets": [
+    "phalaris minor",
+    "wild oat",
+    "grassy weeds",
+    "weed control"
+   ],
+   "crops": [
+    "wheat"
+   ],
+   "organic": false,
+   "dose": "160 g per acre in 150 litres of water, 30–35 days after sowing (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 650,
+   "unit": "160 g"
+  },
+  {
+   "id": "P029",
+   "name": "Bispyribac Sodium 10% SC",
+   "category": "Herbicide",
+   "active_ingredient": "Bispyribac sodium",
+   "targets": [
+    "grassy weeds",
+    "sedges",
+    "broadleaf weeds",
+    "weed control"
+   ],
+   "crops": [
+    "rice"
+   ],
+   "organic": false,
+   "dose": "80–100 ml per acre in 150 litres of water, 15–25 days after sowing/transplanting (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 500,
+   "unit": "100 ml"
+  },
+  {
+   "id": "P030",
+   "name": "Atrazine 50% WP",
+   "category": "Herbicide",
+   "active_ingredient": "Atrazine",
+   "targets": [
+    "broadleaf weeds",
+    "annual grasses",
+    "weed control"
+   ],
+   "crops": [
+    "maize",
+    "sugarcane"
+   ],
+   "organic": false,
+   "dose": "400–500 g per acre in 200 litres of water, pre-emergence (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 250,
+   "unit": "500 g"
+  },
+  {
+   "id": "P031",
+   "name": "Urea (46% N)",
+   "category": "Fertilizer",
+   "active_ingredient": "Nitrogen",
+   "targets": [
+    "nitrogen deficiency",
+    "yellowing of older leaves",
+    "stunted growth"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "As per soil test; split doses. Foliar: 1–2% solution (10–20 g per litre) (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 270,
+   "unit": "45 kg"
+  },
+  {
+   "id": "P032",
+   "name": "DAP (18-46-0)",
+   "category": "Fertilizer",
+   "active_ingredient": "Nitrogen + Phosphorus",
+   "targets": [
+    "phosphorus deficiency",
+    "purple leaves",
+    "poor root growth"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "As per soil test, usually at sowing (basal) (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 1350,
+   "unit": "50 kg"
+  },
+  {
+   "id": "P033",
+   "name": "Muriate of Potash (60% K2O)",
+   "category": "Fertilizer",
+   "active_ingredient": "Potassium",
+   "targets": [
+    "potassium deficiency",
+    "leaf edge scorching",
+    "weak stems"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "As per soil test, usually basal (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 1700,
+   "unit": "50 kg"
+  },
+  {
+   "id": "P034",
+   "name": "NPK 19:19:19 (water soluble)",
+   "category": "Fertilizer",
+   "active_ingredient": "N + P + K",
+   "targets": [
+    "nutrient deficiency",
+    "slow growth",
+    "nitrogen deficiency",
+    "potassium deficiency"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "Foliar: 5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 150,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P035",
+   "name": "Zinc Sulphate (21% Zn)",
+   "category": "Micronutrient",
+   "active_ingredient": "Zinc",
+   "targets": [
+    "zinc deficiency",
+    "khaira disease",
+    "small leaves",
+    "interveinal chlorosis"
+   ],
+   "crops": [
+    "rice",
+    "wheat",
+    "maize"
+   ],
+   "organic": false,
+   "dose": "Soil: 10 kg per acre; foliar: 5 g per litre (with 2.5 g lime) (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 120,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P036",
+   "name": "Ferrous Sulphate (19% Fe)",
+   "category": "Micronutrient",
+   "active_ingredient": "Iron",
+   "targets": [
+    "iron deficiency",
+    "interveinal chlorosis",
+    "yellowing of young leaves"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "Foliar: 5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 80,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P037",
+   "name": "Boron 20% (Disodium Octaborate)",
+   "category": "Micronutrient",
+   "active_ingredient": "Boron",
+   "targets": [
+    "boron deficiency",
+    "fruit cracking",
+    "flower drop",
+    "hollow stem"
+   ],
+   "crops": [
+    "tomato",
+    "grapes",
+    "mustard",
+    "groundnut"
+   ],
+   "organic": false,
+   "dose": "Foliar: 1 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 180,
+   "unit": "500 g"
+  },
+  {
+   "id": "P038",
+   "name": "Magnesium Sulphate",
+   "category": "Micronutrient",
+   "active_ingredient": "Magnesium",
+   "targets": [
+    "magnesium deficiency",
+    "interveinal chlorosis of older leaves"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "Foliar: 5–10 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 90,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P039",
+   "name": "Calcium Nitrate",
+   "category": "Fertilizer",
+   "active_ingredient": "Calcium + Nitrogen",
+   "targets": [
+    "calcium deficiency",
+    "blossom end rot",
+    "tip burn"
+   ],
+   "crops": [
+    "tomato",
+    "chilli",
+    "grapes"
+   ],
+   "organic": false,
+   "dose": "Foliar: 5 g per litre of water (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 160,
+   "unit": "1 kg"
+  },
+  {
+   "id": "P040",
+   "name": "Vermicompost",
+   "category": "Organic Manure",
+   "active_ingredient": "Organic matter",
+   "targets": [
+    "soil health",
+    "low organic carbon",
+    "poor soil structure",
+    "nutrient deficiency"
+   ],
+   "crops": [],
+   "organic": true,
+   "dose": "1–2 tonnes per acre before sowing (SAMPLE: verify on the product label)",
+   "safety_notes": "Bio-input: still wear gloves and avoid mixing with chemical fungicides/insecticides.",
+   "waiting_period_days": null,
+   "price_inr": 600,
+   "unit": "50 kg"
+  },
+  {
+   "id": "P041",
+   "name": "Gypsum (Agricultural grade)",
+   "category": "Soil Amendment",
+   "active_ingredient": "Calcium sulphate",
+   "targets": [
+    "sodic soil",
+    "alkaline soil",
+    "saline soil",
+    "calcium deficiency"
+   ],
+   "crops": [
+    "groundnut",
+    "mustard",
+    "wheat"
+   ],
+   "organic": false,
+   "dose": "As per soil test (often 200–400 kg per acre) (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 300,
+   "unit": "50 kg"
+  },
+  {
+   "id": "P042",
+   "name": "Agricultural Lime",
+   "category": "Soil Amendment",
+   "active_ingredient": "Calcium carbonate",
+   "targets": [
+    "acidic soil",
+    "low ph"
+   ],
+   "crops": [],
+   "organic": false,
+   "dose": "As per soil test lime requirement (SAMPLE: verify on the product label)",
+   "safety_notes": "Wear gloves, mask and full sleeves. Do not spray in strong wind or before rain. Keep away from children, animals and water sources.",
+   "waiting_period_days": null,
+   "price_inr": 250,
+   "unit": "50 kg"
+  }
+ ],
+ "centres": [
+  {
+   "id": "C001",
+   "name": "Krishi Vigyan Kendra, Pune (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "training",
+    "plant diagnosis"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "address": "Sample address, Pune, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C002",
+   "name": "Soil Testing Lab, Pune (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil health card",
+    "fertilizer recommendation",
+    "soil testing"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "address": "Sample address, Pune, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C003",
+   "name": "Agri Input Shop, Pune (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "sprayers",
+    "bio-inputs",
+    "seeds",
+    "fertilizers",
+    "pesticides"
+   ],
+   "state": "Maharashtra",
+   "district": "Pune",
+   "address": "Sample address, Pune, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C004",
+   "name": "Krishi Vigyan Kendra, Nashik (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "seed and planting material",
+    "demonstrations",
+    "crop advisory"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "address": "Sample address, Nashik, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C005",
+   "name": "Plant Clinic, Nashik (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "disease identification",
+    "pest identification"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "address": "Sample address, Nashik, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C006",
+   "name": "Agri Input Shop, Nashik (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "pesticides",
+    "fertilizers",
+    "seeds",
+    "sprayers"
+   ],
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "address": "Sample address, Nashik, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C007",
+   "name": "Krishi Vigyan Kendra, Nagpur (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "crop advisory",
+    "seed and planting material",
+    "demonstrations",
+    "plant diagnosis",
+    "training"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "address": "Sample address, Nagpur, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C008",
+   "name": "Soil Testing Lab, Nagpur (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "water testing",
+    "soil health card",
+    "fertilizer recommendation"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "address": "Sample address, Nagpur, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C009",
+   "name": "Plant Clinic, Nagpur (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "disease identification",
+    "plant diagnosis",
+    "spray advice"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "address": "Sample address, Nagpur, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C010",
+   "name": "Agri Input Shop, Nagpur (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "pesticides",
+    "fertilizers",
+    "seeds",
+    "bio-inputs",
+    "sprayers"
+   ],
+   "state": "Maharashtra",
+   "district": "Nagpur",
+   "address": "Sample address, Nagpur, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C011",
+   "name": "Krishi Vigyan Kendra, Aurangabad (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "crop advisory",
+    "demonstrations",
+    "seed and planting material",
+    "plant diagnosis",
+    "training"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "address": "Sample address, Aurangabad, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C012",
+   "name": "Soil Testing Lab, Aurangabad (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "water testing",
+    "fertilizer recommendation",
+    "soil testing",
+    "soil health card"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "address": "Sample address, Aurangabad, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C013",
+   "name": "Agri Input Shop, Aurangabad (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "sprayers",
+    "seeds",
+    "fertilizers"
+   ],
+   "state": "Maharashtra",
+   "district": "Aurangabad",
+   "address": "Sample address, Aurangabad, Maharashtra",
+   "languages": [
+    "Marathi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C014",
+   "name": "Krishi Vigyan Kendra, Indore (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "seed and planting material"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "address": "Sample address, Indore, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C015",
+   "name": "Plant Clinic, Indore (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "spray advice",
+    "disease identification",
+    "pest identification",
+    "plant diagnosis"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "address": "Sample address, Indore, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C016",
+   "name": "Agri Input Shop, Indore (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "sprayers",
+    "fertilizers",
+    "seeds",
+    "bio-inputs"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "address": "Sample address, Indore, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C017",
+   "name": "Krishi Vigyan Kendra, Bhopal (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "seed and planting material",
+    "crop advisory"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "address": "Sample address, Bhopal, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C018",
+   "name": "Soil Testing Lab, Bhopal (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil testing",
+    "fertilizer recommendation",
+    "soil health card",
+    "water testing"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "address": "Sample address, Bhopal, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C019",
+   "name": "Agri Input Shop, Bhopal (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "pesticides",
+    "sprayers"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "address": "Sample address, Bhopal, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C020",
+   "name": "Krishi Vigyan Kendra, Jabalpur (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "crop advisory"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "address": "Sample address, Jabalpur, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C021",
+   "name": "Plant Clinic, Jabalpur (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "spray advice",
+    "plant diagnosis"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Jabalpur",
+   "address": "Sample address, Jabalpur, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C022",
+   "name": "Krishi Vigyan Kendra, Ujjain (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "seed and planting material",
+    "training",
+    "crop advisory",
+    "demonstrations"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Ujjain",
+   "address": "Sample address, Ujjain, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C023",
+   "name": "Plant Clinic, Ujjain (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "plant diagnosis",
+    "spray advice",
+    "disease identification",
+    "pest identification"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Ujjain",
+   "address": "Sample address, Ujjain, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C024",
+   "name": "Agri Input Shop, Ujjain (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "pesticides",
+    "seeds",
+    "fertilizers"
+   ],
+   "state": "Madhya Pradesh",
+   "district": "Ujjain",
+   "address": "Sample address, Ujjain, Madhya Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C025",
+   "name": "Krishi Vigyan Kendra, Lucknow (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "demonstrations",
+    "crop advisory"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "address": "Sample address, Lucknow, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C026",
+   "name": "Soil Testing Lab, Lucknow (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "fertilizer recommendation",
+    "soil testing",
+    "water testing",
+    "soil health card"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "address": "Sample address, Lucknow, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C027",
+   "name": "Plant Clinic, Lucknow (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "disease identification",
+    "plant diagnosis",
+    "pest identification"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "address": "Sample address, Lucknow, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C028",
+   "name": "Agri Input Shop, Lucknow (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "sprayers",
+    "seeds",
+    "fertilizers",
+    "pesticides"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "address": "Sample address, Lucknow, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C029",
+   "name": "Krishi Vigyan Kendra, Varanasi (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "training"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "address": "Sample address, Varanasi, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C030",
+   "name": "Agri Input Shop, Varanasi (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "fertilizers"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Varanasi",
+   "address": "Sample address, Varanasi, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C031",
+   "name": "Krishi Vigyan Kendra, Meerut (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "seed and planting material",
+    "training",
+    "demonstrations"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "address": "Sample address, Meerut, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C032",
+   "name": "Soil Testing Lab, Meerut (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil testing",
+    "water testing",
+    "fertilizer recommendation"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Meerut",
+   "address": "Sample address, Meerut, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C033",
+   "name": "Krishi Vigyan Kendra, Agra (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "demonstrations",
+    "seed and planting material"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "address": "Sample address, Agra, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C034",
+   "name": "Soil Testing Lab, Agra (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil health card",
+    "water testing",
+    "fertilizer recommendation",
+    "soil testing"
+   ],
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "address": "Sample address, Agra, Uttar Pradesh",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C035",
+   "name": "Krishi Vigyan Kendra, Ludhiana (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "seed and planting material",
+    "plant diagnosis",
+    "crop advisory"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "address": "Sample address, Ludhiana, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C036",
+   "name": "Soil Testing Lab, Ludhiana (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil testing",
+    "soil health card",
+    "fertilizer recommendation"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "address": "Sample address, Ludhiana, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C037",
+   "name": "Plant Clinic, Ludhiana (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "spray advice",
+    "pest identification",
+    "plant diagnosis"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "address": "Sample address, Ludhiana, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C038",
+   "name": "Agri Input Shop, Ludhiana (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "fertilizers",
+    "seeds",
+    "sprayers"
+   ],
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "address": "Sample address, Ludhiana, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C039",
+   "name": "Krishi Vigyan Kendra, Amritsar (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "training",
+    "seed and planting material",
+    "demonstrations",
+    "crop advisory",
+    "plant diagnosis"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "address": "Sample address, Amritsar, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C040",
+   "name": "Soil Testing Lab, Amritsar (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "fertilizer recommendation",
+    "water testing",
+    "soil health card",
+    "soil testing"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "address": "Sample address, Amritsar, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C041",
+   "name": "Plant Clinic, Amritsar (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "pest identification",
+    "plant diagnosis",
+    "disease identification"
+   ],
+   "state": "Punjab",
+   "district": "Amritsar",
+   "address": "Sample address, Amritsar, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C042",
+   "name": "Krishi Vigyan Kendra, Bathinda (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "crop advisory",
+    "demonstrations",
+    "plant diagnosis",
+    "training",
+    "seed and planting material"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "address": "Sample address, Bathinda, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C043",
+   "name": "Plant Clinic, Bathinda (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "disease identification",
+    "pest identification"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "address": "Sample address, Bathinda, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C044",
+   "name": "Agri Input Shop, Bathinda (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "fertilizers",
+    "seeds",
+    "pesticides",
+    "sprayers"
+   ],
+   "state": "Punjab",
+   "district": "Bathinda",
+   "address": "Sample address, Bathinda, Punjab",
+   "languages": [
+    "Punjabi",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C045",
+   "name": "Krishi Vigyan Kendra, Jaipur (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "crop advisory",
+    "demonstrations",
+    "seed and planting material"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "address": "Sample address, Jaipur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C046",
+   "name": "Soil Testing Lab, Jaipur (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "fertilizer recommendation",
+    "water testing",
+    "soil health card"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "address": "Sample address, Jaipur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C047",
+   "name": "Plant Clinic, Jaipur (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "plant diagnosis",
+    "pest identification",
+    "spray advice",
+    "disease identification"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "address": "Sample address, Jaipur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C048",
+   "name": "Agri Input Shop, Jaipur (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "bio-inputs",
+    "sprayers",
+    "pesticides"
+   ],
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "address": "Sample address, Jaipur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C049",
+   "name": "Krishi Vigyan Kendra, Kota (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "crop advisory",
+    "plant diagnosis",
+    "seed and planting material"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "address": "Sample address, Kota, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C050",
+   "name": "Soil Testing Lab, Kota (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil health card",
+    "soil testing",
+    "water testing",
+    "fertilizer recommendation"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "address": "Sample address, Kota, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C051",
+   "name": "Plant Clinic, Kota (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "pest identification",
+    "disease identification",
+    "plant diagnosis",
+    "spray advice"
+   ],
+   "state": "Rajasthan",
+   "district": "Kota",
+   "address": "Sample address, Kota, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C052",
+   "name": "Krishi Vigyan Kendra, Jodhpur (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "crop advisory",
+    "demonstrations",
+    "training"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "address": "Sample address, Jodhpur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C053",
+   "name": "Agri Input Shop, Jodhpur (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "seeds",
+    "bio-inputs",
+    "fertilizers"
+   ],
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "address": "Sample address, Jodhpur, Rajasthan",
+   "languages": [
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  },
+  {
+   "id": "C054",
+   "name": "Krishi Vigyan Kendra, Dharwad (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "training",
+    "plant diagnosis"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "address": "Sample address, Dharwad, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C055",
+   "name": "Plant Clinic, Dharwad (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "plant diagnosis",
+    "spray advice"
+   ],
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "address": "Sample address, Dharwad, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C056",
+   "name": "Krishi Vigyan Kendra, Mysuru (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "demonstrations",
+    "seed and planting material",
+    "crop advisory"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "address": "Sample address, Mysuru, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C057",
+   "name": "Soil Testing Lab, Mysuru (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil testing",
+    "fertilizer recommendation",
+    "water testing"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "address": "Sample address, Mysuru, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C058",
+   "name": "Plant Clinic, Mysuru (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "plant diagnosis",
+    "disease identification"
+   ],
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "address": "Sample address, Mysuru, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C059",
+   "name": "Krishi Vigyan Kendra, Belagavi (sample)",
+   "centre_type": "Krishi Vigyan Kendra",
+   "services": [
+    "plant diagnosis",
+    "demonstrations",
+    "seed and planting material",
+    "crop advisory"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "address": "Sample address, Belagavi, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C060",
+   "name": "Soil Testing Lab, Belagavi (sample)",
+   "centre_type": "Soil Testing Lab",
+   "services": [
+    "soil testing",
+    "fertilizer recommendation"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "address": "Sample address, Belagavi, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C061",
+   "name": "Plant Clinic, Belagavi (sample)",
+   "centre_type": "Plant Clinic",
+   "services": [
+    "pest identification",
+    "plant diagnosis",
+    "disease identification"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "address": "Sample address, Belagavi, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "free_service": true
+  },
+  {
+   "id": "C062",
+   "name": "Agri Input Shop, Belagavi (sample)",
+   "centre_type": "Agri Input Shop",
+   "services": [
+    "sprayers",
+    "seeds"
+   ],
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "address": "Sample address, Belagavi, Karnataka",
+   "languages": [
+    "Kannada",
+    "Hindi",
+    "English"
+   ],
+   "open_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "free_service": false
+  }
+ ]
+}

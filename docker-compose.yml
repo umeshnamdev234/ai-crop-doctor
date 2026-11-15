@@ -1,0 +1,50 @@
+# Smarter Crops AI — backend stack (API + PostgreSQL).
+# The vision model (Gemma 3) runs in Ollama on your machine; the frontend runs with `npm run dev`.
+#
+#   cp .env.example .env        # optional
+#   docker compose up -d --build
+#
+# API: http://localhost:8100   Docs: http://localhost:8100/docs
+
+name: smarter-crops
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: smarter_crops
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change-me-local-only}
+      POSTGRES_DB: smarter_crops
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:${DB_PORT:-5434}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U smarter_crops -d smarter_crops"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql://smarter_crops:${POSTGRES_PASSWORD:-change-me-local-only}@db:5432/smarter_crops}
+      LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:11434/v1}
+      LLM_MODEL: ${LLM_MODEL:-gemma3:4b}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3200,http://127.0.0.1:3200}
+      APP_API_KEY: ${APP_API_KEY:-}
+      ADMIN_API_KEY: ${ADMIN_API_KEY:-}
+      SEED_SAMPLE_DATA: ${SEED_SAMPLE_DATA:-true}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "127.0.0.1:${API_PORT:-8100}:8000"
+
+volumes:
+  pgdata:
